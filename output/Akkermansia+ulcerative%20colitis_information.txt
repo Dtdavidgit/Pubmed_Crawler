@@ -1,0 +1,90 @@
+Paper Title:	Alterations in the Abundance and Co-occurrence of 
+Paper Abstract:	 and 
+Paper PMID:	30245977
+Paper PMCID or DOI:	PMC6137959
+
+Paper Title:	Colonic Inhibition of Phosphatase and Tensin Homolog Increases Colitogenic Bacteria, Causing Development of Colitis in Il10-/- Mice.
+Paper Abstract:	Phosphatase and tensin homolog (Pten) is capable of mediating microbe-induced immune responses in the gut. Thus, Pten deficiency in the intestine accelerates colitis development in Il10-/- mice. As some ambient pollutants inhibit Pten function and exposure to ambient pollutants may increase inflammatory bowel disease (IBD) incidence, it is of interest to examine how Pten inhibition could affect colitis development in genetically susceptible hosts.
+Paper PMID:	29788382
+Paper PMCID or DOI:	10.1093/ibd/izy124
+
+Paper Title:	The Presence of Genotoxic and/or Pro-inflammatory Bacterial Genes in Gut Metagenomic Databases and Their Possible Link With Inflammatory Bowel Diseases.
+Paper Abstract:	 The human gut microbiota is a dynamic community of microorganisms that mediate important biochemical processes. Differences in the gut microbial composition have been associated with inflammatory bowel diseases (IBD) and other intestinal disorders. In this study, we quantified and compared the frequencies of eight genotoxic and/or pro-inflammatory bacterial genes found in metagenomic Whole Genome Sequences (mWGSs) of samples from individuals with IBD vs. a cohort of healthy human subjects. 
+Paper PMID:	29692798
+Paper PMCID or DOI:	PMC5902703
+
+Paper Title:	The taxonomic composition of the donor intestinal microbiota is a major factor influencing the efficacy of faecal microbiota transplantation in therapy refractory ulcerative colitis.
+Paper Abstract:	Faecal microbiota transplantation is an experimental approach for the treatment of patients with ulcerative colitis. Although there is growing evidence that faecal microbiota transplantation is effective in this disease, factors affecting its response are unknown.
+Paper PMID:	29052237
+Paper PMCID or DOI:	PMC5765501
+
+Paper Title:	C4B gene influences intestinal microbiota through complement activation in patients with paediatric-onset inflammatory bowel disease.
+Paper Abstract:	Complement C4 genes are linked to paediatric inflammatory bowel disease (PIBD), but the mechanisms have remained unclear. We examined the influence of C4B gene number on intestinal microbiota and in-vitro serum complement activation by intestinal microbes in PIBD patients. Complement C4A and C4B gene numbers were determined by genomic reverse transcription-polymerase chain reaction (RT-PCR) from 64 patients with PIBD (Crohn's disease or ulcerative colitis). The severity of the disease course was determined from faecal calprotectin levels. Intestinal microbiota was assessed using the HITChip microarray. Complement reactivity in patients was analysed by incubating their sera with Yersinia pseudotuberculosis and Akkermansia muciniphila and determining the levels of C3a and soluble terminal complement complex (SC5b-9) using enzyme immunoassays. The microbiota diversity was wider in patients with no C4B genes than in those with one or two C4B genes, irrespective of intestinal inflammation. C4B and total C4 gene numbers correlated positively with soluble terminal complement complex (TCC, SC5b-9) levels when patient serum samples were stimulated with bacteria. Our results suggest that the C4B gene number associates positively with inflammation in patients with PIBD. Multiple copies of the C4B gene may thus aggravate the IBD-associated dysbiosis through escalated complement reactivity towards the microbiota.
+Paper PMID:	28832994
+Paper PMCID or DOI:	PMC5680072
+
+Paper Title:	Distinct gut microbiota profiles in patients with primary sclerosing cholangitis and ulcerative colitis.
+Paper Abstract:	To characterize the gut bacterial microbiota of patients with primary sclerosing cholangitis (PSC) and ulcerative colitis (UC).
+Paper PMID:	28740343
+Paper PMCID or DOI:	PMC5504370
+
+Paper Title:	Chlorogenic Acid Ameliorates Experimental Colitis by Promoting Growth of Akkermansia in Mice.
+Paper Abstract:	Chlorogenic acid (ChA)-one of the most abundant polyphenol compounds in the human diet-exerts anti-inflammatory activities. The aim of this study was to investigate the effect of ChA on gut microbiota in ulcerative colitis (UC). Colitis was induced by 2.5% dextran sulfate sodium (DSS) in C57BL/6 mice, which were on a control diet or diet with ChA (1 mM). The histopathological changes and inflammation were evaluated. Fecal samples were analyzed by 16S rRNA gene sequencing. ChA attenuated several effects of DSS-induced colitis, including weight loss, increased disease activity index, and improved mucosal damage. Moreover, ChA could significantly suppress the secretion of IFNγ, TNFα, and IL-6 and the colonic infiltration of F4/80⁺ macrophages, CD3⁺ T cells, and CD177⁺ neutrophils via inhibition of the active NF-κB signaling pathway. In addition, ChA decreased the proportion of 
+Paper PMID:	28661454
+Paper PMCID or DOI:	PMC5537792
+
+Paper Title:	Bioactivity of Polyphenols: Preventive and Adjuvant Strategies toward Reducing Inflammatory Bowel Diseases-Promises, Perspectives, and Pitfalls.
+Paper Abstract:	Inflammatory bowel diseases (IBDs) are characterized by autoimmune and inflammation-related complications of the large intestine (ulcerative colitis) and additional parts of the digestive tract (Crohn's disease). Complications include pain, diarrhoea, chronic inflammation, and cancer. IBD prevalence has increased during the past decades, especially in Westernized countries, being as high as 1%. As prognosis is poor and medication often ineffective or causing side effects, additional preventive/adjuvant strategies are sought. A possible approach is via diets rich in protective constituents. Polyphenols, the most abundant phytochemicals, have been associated with anti-inflammatory, antioxidant, immunomodulatory, and apoptotic properties. Locally reducing oxidative stress, they can further act on cellular targets, altering gene expression related to inflammation, including NF-κB, Nrf-2, Jak/STAT, and MAPKs, suppressing downstream cytokine formation (e.g., IL-8, IL-1β, and TNF-α), and boosting the bodies' own antioxidant status (HO-1, SOD, and GPx). Moreover, they may promote, as prebiotics, healthy microbiota (e.g., Bifidobacteria, Akkermansia), short-chain fatty acid formation, and reduced gut permeability/improved tight junction stability. However, potential adverse effects such as acting as prooxidants, or perturbations of efflux transporters and phase I/II metabolizing enzymes, with increased uptake of undesired xenobiotics, should also be considered. In this review, we summarize current knowledge around preventive and arbitrary actions of polyphenols targeting IBD.
+Paper PMID:	27478535
+Paper PMCID or DOI:	PMC4958438
+
+Paper Title:	Dysbiosis, inflammation, and response to treatment: a longitudinal study of pediatric subjects with newly diagnosed inflammatory bowel disease.
+Paper Abstract:	Gut microbiome dysbiosis has been demonstrated in subjects with newly diagnosed and chronic inflammatory bowel disease (IBD). In this study we sought to explore longitudinal changes in dysbiosis and ascertain associations between dysbiosis and markers of disease activity and treatment outcome.
+Paper PMID:	27412252
+Paper PMCID or DOI:	PMC4944441
+
+Paper Title:	Caffeic acid ameliorates colitis in association with increased Akkermansia population in the gut microbiota of mice.
+Paper Abstract:	Emerging evidence shows that dietary agents and phytochemicals contribute to the prevention and treatment of ulcerative colitis (UC). We first reported the effects of dietary caffeic acid (CaA) on murine experimental colitis and on fecal microbiota. Colitis was induced in C57BL/6 mice by administration of 2.5% dextran sulfate sodium (DSS). Mice were fed a control diet or diet with CaA (1 mM). Our results showed that dietary CaA exerted anti-inflammatory effects in DSS colitis mice. Moreover, CaA could significantly suppress the secretion of IL-6, TNFα, and IFNγ and the colonic infiltration of CD3+ T cells, CD177+ neutrophils and F4/80+ macrophages via inhibition of the activation of NF-κB signaling pathway. Analysis of fecal microbiota showed that CaA could restore the reduction of richness and inhibit the increase of the ratio of Firmicute to Bacteroidetes in DSS colitis mice. And CaA could dramatically increase the proportion of the mucin-degrading bacterium Akkermansia in DSS colitis mice. Thus, CaA could ameliorate colonic pathology and inflammation in DSS colitis mice, and it might be associated with a proportional increase in Akkermansia.
+Paper PMID:	27177331
+Paper PMCID or DOI:	PMC5077976
+
+Paper Title:	Akkermansia muciniphila and its role in regulating host functions.
+Paper Abstract:	Akkermansia muciniphila is an intestinal bacterium that was isolated a decade ago from a human fecal sample. Its specialization in mucin degradation makes it a key organism at the mucosal interface between the lumen and host cells. Although it was isolated quite recently, it has rapidly raised significant interest as A. muciniphila is the only cultivated intestinal representative of the Verrucomicrobia, one of the few phyla in the human gut that can be easily detected in phylogenetic and metagenome analyses. There has also been a growing interest in A. muciniphila, due to its association with health in animals and humans. Notably, reduced levels of A. muciniphila have been observed in patients with inflammatory bowel diseases (mainly ulcerative colitis) and metabolic disorders, which suggests it may have potential anti-inflammatory properties. The aims of this review are to summarize the existing data on the intestinal distribution of A. muciniphila in health and disease, to provide insight into its ecology and its role in founding microbial networks at the mucosal interface, as well as to discuss recent research on its role in regulating host functions that are disturbed in various diseases, with a specific focus on metabolic disorders in both animals and humans.
+Paper PMID:	26875998
+Paper PMCID or DOI:	10.1016/j.micpath.2016.02.005
+
+Paper Title:	A Preliminary Study Examining the Binding Capacity of Akkermansia muciniphila and Desulfovibrio spp., to Colonic Mucin in Health and Ulcerative Colitis.
+Paper Abstract:	Akkermansia muciniphila and Desulfovibrio spp. are commensal microbes colonising the mucus gel layer of the colon. Both species have the capacity to utilise colonic mucin as a substrate. A. muciniphila degrades colonic mucin, while Desulfovibrio spp. metabolise the sulfate moiety of sulfated mucins. Altered abundances of these microorganisms have been reported in ulcerative colitis (UC). However their capacity to bind to human colonic mucin, and whether this binding capacity is affected by changes in mucin associated with UC, remain to be defined.
+Paper PMID:	26491870
+Paper PMCID or DOI:	PMC4619660
+
+Paper Title:	Associations between host gene expression, the mucosal microbiome, and clinical outcome in the pelvic pouch of patients with inflammatory bowel disease.
+Paper Abstract:	Pouchitis is common after ileal pouch-anal anastomosis (IPAA) surgery for ulcerative colitis (UC). Similar to inflammatory bowel disease (IBD), both host genetics and the microbiota are implicated in its pathogenesis. We use the IPAA model of IBD to associate mucosal host gene expression with mucosal microbiomes and clinical outcomes. We analyze host transcriptomic data and 16S rRNA gene sequencing data from paired biopsies from IPAA patients with UC and familial adenomatous polyposis. To achieve power for a genome-wide microbiome-transcriptome association study, we use principal component analysis for transcript and clade reduction, and identify significant co-variation between clades and transcripts.
+Paper PMID:	25887922
+Paper PMCID or DOI:	PMC4414286
+
+Paper Title:	Abnormal fibre usage in UC in remission.
+Paper Abstract:	Colonic fermentation in patients with UC in remission was compared with that in matched healthy subjects on habitual diets and when dietary fibre was increased.
+Paper PMID:	25037189
+Paper PMCID or DOI:	10.1136/gutjnl-2014-307198
+
+Paper Title:	Immunological alteration and changes of gut microbiota after dextran sulfate sodium (DSS) administration in mice.
+Paper Abstract:	Ulcerative colitis (UC) is characterized by chronic inflammation of the colonic mucosa. Administration of dextran sulfate sodium (DSS) to animals is a frequently used model to mimic human colitis. Deregulation of the immune response to the enteric microflora or pathogens as well as increased intestinal permeability have been proposed as disease-driving mechanisms. To enlarge the understanding of the pathogenesis, we have studied the effect of DSS on the immune system and gut microbiota in mice. Intestinal inflammation was verified through histological evaluation and myeloperoxidase activity. Immunological changes were assessed by flow cytometry in spleen, Peyer's patches and mesenteric lymph nodes and through multiplex cytokine profiling. In addition, quantification of the total amount of bacteria on colonic mucosa as well as the total amount of lactobacilli, Akkermansia, Desulfovibrio and Enterobacteriaceae was performed by the use of quantitative PCR. Diversity and community structure were analysed by terminal restriction fragment length polymorphism (T-RFLP) patterns, and principal component analysis was utilized on immunological and T-RFLP patterns. DSS-induced colitis show clinical and histological similarities to UC. The composition of the colonic microflora was profoundly changed and correlated with several alterations of the immune system. The results demonstrate a relationship between multiple immunological changes and alterations of the gut microbiota after DSS administration. These data highlight and improve the definition of the immunological basis of the disease and suggest a role for dysregulation of the gut microbiota in the pathogenesis of colitis.
+Paper PMID:	24414342
+Paper PMCID or DOI:	PMC4308640
+
+Paper Title:	Phylogenetic analysis of dysbiosis in ulcerative colitis during remission.
+Paper Abstract:	Presence of intestinal microbes is a prerequisite for the development of ulcerative colitis (UC), although deviation of the normal intestinal microbiota composition, dysbiosis, is presumably implicated in the etiology of UC.
+Paper PMID:	23385241
+Paper PMCID or DOI:	10.1097/MIB.0b013e31827fec6d
+
+Paper Title:	Gram-negative bacteria account for main differences between faecal microbiota from patients with ulcerative colitis and healthy controls.
+Paper Abstract:	Detailed knowledge about the composition of the intestinal microbiota may be critical to unravel the pathogenesis of ulcerative colitis (UC), a human chronic inflammatory bowel disease, since the intestinal microbes are expected to influence some of the key mechanisms involved in the inflammatory process of the gut mucosa. The aim of this study was to investigate the faecal microbiota in patients either with UC in remission (n=6) or with active disease (n=6), and in healthy controls (n=6). The composition of Gram-negative bacteria and Gram-positive bacteria was examined. Antigenic structures of Gram-negative bacteria such as lipopolysaccharides have been related to the inflammatory responses and pathogenesis of inflammatory bowel disease. Dice cluster analysis and principal component analysis of faecal microbiota profiles obtained by denaturing gradient gel electrophoresis and quantitative PCR, respectively, revealed that the composition of faecal bacteria from UC patients with active disease differed from the healthy controls and that this difference should be ascribed to Gram-negative bacteria. The analysis did not show any clear grouping of UC patients in remission. Even with the relatively low number of subjects in each group, we were able to detect a statistically significant underrepresentation of Lactobacillus spp. and Akkermansia muciniphila in UC patients with clinically active disease compared to the healthy controls. In line with previous communications, we have shown that the microbiota in UC patients with active disease differ from that in healthy controls. Our findings indicate that alterations in the composition of the Gram-negative bacterial population, as well as reduced numbers of lactobacilli and A. muciniphila may play a role in UC.
+Paper PMID:	22968374
+Paper PMCID or DOI:	10.3920/BM2012.0018
+
+Paper Title:	Mucolytic bacteria with increased prevalence in IBD mucosa augment in vitro utilization of mucin by other bacteria.
+Paper Abstract:	Mucosa-associated bacteria are increased in inflammatory bowel disease (IBD), which suggests the possibility of an increased source of digestible endogenous mucus substrate. We hypothesized that mucolytic bacteria are increased in IBD, providing increased substrate to sustain nonmucolytic mucosa-associated bacteria.
+Paper PMID:	20648002
+Paper PMCID or DOI:	10.1038/ajg.2010.281
+
